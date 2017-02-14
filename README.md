@@ -12,3 +12,11 @@ Alexa turn laundry on/off
 Alexa turn bathroom lights on/off
 
 are detected and the appropriate network commands are sent to my LimitlessLED bridge.
+
+# Run
+To run this, download a Rebol client from http://www.rebol.com/download-core.html, download all the files and then run it from the Rebol 
+console
+
+do %bridge.r
+
+which sets up a listening server on port 8000.  See the bridge.r file to change configuration.
