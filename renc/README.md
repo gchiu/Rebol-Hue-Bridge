@@ -3,11 +3,13 @@ at http://metaeducation.s3.amazonaws.com/index.html
 
 I will of course attempt to make sure that it runs with later versions as well.
 
-Download a binary and all these scripts.  In the same directory, just run
+Download a ren-c binary and all these scripts.  In the same directory, just run
 
 r3-buildno bridge.reb
 
 You'll have to make some configuration changes which will be documented soon. 
 More likely a separate file will hold all the user config settings.
+
+For a working video from today, see https://youtu.be/QZQlMmlR5l8
 
 Graham Chiu - 9th March 2017, Aotearoa
