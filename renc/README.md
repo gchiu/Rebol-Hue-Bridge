@@ -8,15 +8,18 @@ The primary use of the Rebol Hue Bridge is to control LimitlessLED/MiBulbs/Easyb
 I will of course attempt to make sure that it runs with later versions as well.
 
 **To Run**
+
 Download a ren-c binary and all these scripts.  In the same directory, just run
 
-r3-buildno bridge.reb
+__r3-buildno bridge.reb__
 
 **Configuration**
+
 You'll have to make some configuration changes which will be documented soon. 
 More likely a separate file will hold all the user config settings.
 
 **DEMO**
+
 For a working video from today, see https://youtu.be/QZQlMmlR5l8
 
 Graham Chiu - 9th March 2017, Aotearoa
